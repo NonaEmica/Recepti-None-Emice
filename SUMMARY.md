@@ -10,4 +10,5 @@
 ## Topla predjela
 
 * [Maneštra none Emice](topla-predjela/manestra-none-emice.md)
+* [Juha minestrone none Emice](topla-predjela/juha-minestrone-none-emice.md)
 
