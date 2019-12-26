@@ -2,6 +2,8 @@
 
 > Nona Emica je virovala da priko šetemane triba ist nešto na žlicu. Mineštrone je odlična juva za sva godišnja doba, osim lita. Liti je bilo prevruće, pa bi nonu Emicu uvatile fumade.
 
+![](../.gitbook/assets/minestrone-1.jpg)
+
 ## Sastojci
 
 * 1 žuti luk \(kapula\)
@@ -29,4 +31,6 @@
 ## Posluživanje
 
 Poslužite kao predjelo ili kao glavno jelo.
+
+![](../.gitbook/assets/minestrone-2.jpg)
 
