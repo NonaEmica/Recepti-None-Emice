@@ -1,6 +1,6 @@
 ---
 description: >-
-  Svečano obećajen da ću u ovi repozitorij upisati sve svoje recepte i recepte
+  Svečano obećajen da ću u ovi repozitorij upisati sve svoje ricete i ricete
   svih svojih nona.
 ---
 
